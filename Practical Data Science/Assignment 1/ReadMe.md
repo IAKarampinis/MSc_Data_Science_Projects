@@ -1,1 +1,2 @@
 
+<p style='text-align: justify;'> We now create a variable that stores, for each tweet, the minute it was created. We know that the collection process lasted around 25 minutes. However, it could very well be the case that the 'minute' attribute of the last tweet is less than the corresponding attribute of the last tweet, if, say we started at 8:50pm and ended at around 9:15 pm. And this last case needs special treatment. In any case, we store the minute, starting from 1, that a tweet was created in the variabble 'minute_created'. </p>
