@@ -14573,9 +14573,6 @@ a.anchor-link {
 <span class="c1">### Create a regular expression to detect any username in a text.</span>
 
 
-<span class="c1">#regex_users = &quot;(?&lt;!RT )&quot;  # Excludes preceeding &#39;RT &#39; strings that correspond to re-tweets, </span>
-                     <span class="c1"># via the so-called Negative Lookbehind. We would use this if retweets didn&#39;t count as mentions.</span>
-
 <span class="c1"># Taken as is from the slides.</span>
 <span class="n">regex_users</span> <span class="o">=</span> <span class="s2">&quot;@&quot;</span>
 <span class="n">regex_users</span> <span class="o">+=</span> <span class="s2">&quot;[&quot;</span>
