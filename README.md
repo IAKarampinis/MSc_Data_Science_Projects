@@ -1,2 +1,3 @@
-# MSc_Data_Science_Projects
-Projects carried out in the duration of my MSc in Data Science.
+# M.Sc. Data Science Projects
+
+Here I have posted the more involved projects I have carried out so far during my studies for the [M.Sc. in Data Science](https://datascience.aueb.gr/). 
